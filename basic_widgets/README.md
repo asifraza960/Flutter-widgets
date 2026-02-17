@@ -26,4 +26,6 @@ Cloumn UI's
 
 
 # Dialog Box's
-[vedio.htm](https://github.com/user-attachments/files/24984618/vedio.htm)
+
+https://github.com/user-attachments/assets/8e22e72b-24d8-4eb2-907e-316be3183b35
+
